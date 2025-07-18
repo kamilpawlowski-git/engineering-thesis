@@ -1,0 +1,42 @@
+# Ignoruj duże archiwa .zip
+*.zip
+
+# Ignoruj pliki tymczasowe systemów
+*.log
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+.DS_Store
+
+# Ignoruj pliki binarne / buildy
+*.exe
+*.dll
+*.so
+*.out
+*.bin
+*.elf
+
+# Ignoruj foldery buildów
+build/
+out/
+dist/
+Debug/
+Release/
+
+# Ignoruj pliki IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignoruj pliki kompilatorów
+*.o
+*.obj
+*.a
+*.lib
+
+# Ignoruj pliki generowane automatycznie
+__pycache__/
+*.pyc
+*.class
