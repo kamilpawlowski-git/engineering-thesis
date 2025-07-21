@@ -202,6 +202,10 @@ void handle_new_data(const uint8_t * data, int data_len)
 
     switch (packet->message_id) {
         case MessageId_init: {
+            // DODANE PRZEZ KAMIL PAWLOWSKI
+            // miejsce na funkcje typu:
+            // ask_for_other_accesories_config_data()
+
             // Reply AccessoryConfigurationData to the app
             send_accessory_config_data();
             break;

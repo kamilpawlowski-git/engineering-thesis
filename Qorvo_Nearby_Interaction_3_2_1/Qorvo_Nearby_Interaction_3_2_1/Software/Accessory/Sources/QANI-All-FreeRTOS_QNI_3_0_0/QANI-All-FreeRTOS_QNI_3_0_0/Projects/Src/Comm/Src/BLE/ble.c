@@ -255,7 +255,7 @@ static void gatt_init(void)
 
 /**@brief Function for handling Queued Write Module errors.
  *
- * @details A pointer to this function will be passed to each service which may need to inform the
+ * @details A po>inter to this function will be passed to each service which may need to inform the
  *          application about an error.
  *
  * @param[in]   nrf_error   Error code containing information about what went wrong.

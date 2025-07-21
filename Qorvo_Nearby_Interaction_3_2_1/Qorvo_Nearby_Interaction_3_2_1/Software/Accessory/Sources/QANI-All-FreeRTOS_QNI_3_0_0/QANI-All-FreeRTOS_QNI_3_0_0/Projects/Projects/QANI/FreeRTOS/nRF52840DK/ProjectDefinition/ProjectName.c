@@ -50,6 +50,6 @@
  */
 
 const char ProjectName[] = "nRF52840DK - Qorvo Apple Nearby Interaction - FreeRTOS";
-const char BoardName[] = "nRF52840DK";
+const char BoardName[] = "Nazwa Kamila";
 const char OsName[] = "FreeRTOS";
 const char ApplicationName[] = "Nearby Interaction";

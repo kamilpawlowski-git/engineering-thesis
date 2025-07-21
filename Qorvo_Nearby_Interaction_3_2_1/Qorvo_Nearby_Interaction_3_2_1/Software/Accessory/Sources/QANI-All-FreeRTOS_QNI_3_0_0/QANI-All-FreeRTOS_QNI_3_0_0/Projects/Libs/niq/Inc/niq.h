@@ -112,15 +112,22 @@ struct AccessoryConfigurationData {
 /// https://developer.apple.com/nearby-interaction/
 ///
 enum SampleAppMessageId {
-    // From accessory
+    // From accessory (from us)
     MessageId_accessoryConfigurationData = 0x1,
     MessageId_accessoryUwbDidStart = 0x2,
     MessageId_accessoryUwbDidStop = 0x3,
+
     
-    // To accessory
+    // To accessory (from iPhone)
     MessageId_init = 0xA,
     MessageId_configure_and_start = 0xB,
     MessageId_stop = 0xC,
+
+    // DODANE PRZEZ KAMIL PAWLOWSKI
+    // Other slave accesory
+    // From accesory (from us)
+    
+
    
    // Developer can extend SampleAppMessageId with other MessageId
    UserId_getDeviceStruct = 0x20,

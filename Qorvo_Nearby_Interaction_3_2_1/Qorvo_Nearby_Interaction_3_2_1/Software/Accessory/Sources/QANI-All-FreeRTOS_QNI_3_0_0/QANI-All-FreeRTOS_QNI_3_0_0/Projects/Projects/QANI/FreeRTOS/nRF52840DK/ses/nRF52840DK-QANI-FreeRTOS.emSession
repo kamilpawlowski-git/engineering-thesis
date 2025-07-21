@@ -1,0 +1,52 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBuffer/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="nRF52840DK-QANI-FreeRTOS"/>
+  <ProjectSessionItem path="nRF52840DK-QANI-FreeRTOS;nRF52840DK-QANI-FreeRTOS"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="210" useTextEdit="1" path="../../../../../Src/Comm/Src/BLE/ble.c" left="0" top="201" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="148" useTextEdit="1" path="../../QANI-FreeRTOS-Common/main.c" left="0" top="140" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="43" y="212" useTextEdit="1" path="../../../../../Src/Comm/Src/BLE/niq/ble_niq.c" left="0" selected="1" top="44" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="7" y="121" useTextEdit="1" path="../../../../../Libs/niq/Inc/niq.h" left="0" top="105" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="113" useTextEdit="1" path="../../../../../Src/Comm/Src/BLE/qnis/ble_qnis.h" left="0" top="92" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../../Src/Comm/Src/BLE/anis/ble_anis.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../../Src/Comm/Src/BLE/qnis/ble_qnis.c" left="0" top="90" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../../Src/Boards/Src/nRF52840DK/FreeRTOS/QANI/nRF52840DK.c" left="0" top="94" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="46" y="88" useTextEdit="1" path="../../../../../Src/Apps/Src/common/defaultTask/defaultTask.c" left="0" top="40" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="74" useTextEdit="1" path="../../../../../SDK_BSP/Nordic/NORDIC_SDK_17_1_0/components/ble/ble_advertising/ble_advertising.h" left="0" top="74" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="523" useTextEdit="1" path="../../../../../SDK_BSP/Nordic/NORDIC_SDK_17_1_0/components/ble/ble_advertising/ble_advertising.c" left="0" top="508" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="456" useTextEdit="1" path="../../../../../SDK_BSP/Nordic/NORDIC_SDK_17_1_0/components/ble/ble_advertising/ble_advertising.c" left="0" top="456" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="nRF52840DK-QANI-FreeRTOS" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Common" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
